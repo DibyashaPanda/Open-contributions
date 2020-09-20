@@ -25,11 +25,12 @@
 4. Seaborn
 5. NumPy
 6. SciPy
+
 * Data Preprocessing
-   1.Taking care of Missing Data
-   2.Encoding Categorical Data
-   3.Splitting the dataset into the Training set and Test set
-   4.Feature Scaling
+1.Taking care of Missing Data
+2.Encoding Categorical Data
+3.Splitting the dataset into the Training set and Test set
+4.Feature Scaling
 
 * Cross Validation
 1. k-Fold
