@@ -10,3 +10,7 @@
     * Naive Bayes
     * Decision Tree
     * Random Forest
+    
+ ## Unsupervised Learning
+ 3. **Clustering**
+    * K-Means
