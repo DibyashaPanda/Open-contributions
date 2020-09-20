@@ -14,3 +14,9 @@
  ## Unsupervised Learning
  3. **Clustering**
     * K-Means
+    
+ ## Data Preprocessing
+ * Taking care of Missing Data
+ * Encoding Categorical Data
+ * Splitting the dataset into the Training set and Test set
+ * Feature Scaling
