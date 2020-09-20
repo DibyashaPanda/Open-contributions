@@ -29,5 +29,11 @@
  * F1 Score
  
  ## ML Libraries
+ * Matplotlib
+ * Pandas
+ * Scikit-Learn
+ * Seaborn
+ * NumPy
+ * SciPy
  
  
