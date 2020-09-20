@@ -21,5 +21,13 @@
  * Splitting the dataset into the Training set and Test set
  * Feature Scaling
  
- **Cross Validation**
-    * K-Fold
+ ## Performance Metrics
+ * MSE
+ * RMSE
+ * Precision
+ * Recall
+ * F1 Score
+ 
+ ## ML Libraries
+ 
+ 
