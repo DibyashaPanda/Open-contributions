@@ -12,8 +12,8 @@
     * Random Forest
     
  ## Unsupervised Learning
-  **Clustering**
-    * K-Means
+  1. **Clustering**
+      * K-Means
     
  ## Data Preprocessing
  * Taking care of Missing Data
