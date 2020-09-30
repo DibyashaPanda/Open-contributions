@@ -14,4 +14,4 @@ Here, we do not train the machine rather we leave the machine to study on its ow
 
 <br>The **Decision Tree Algorithm** is similar to the if-else statements in looping. Decision Tree is the graphical representation of answers to our own problems which we come across daily in our life based upon some conditions.
 <br> Its uses tree like structure where our problem is the parent node or root node. The parentnode is the point where branches orginiates which means the possible outcomes or solutions. Next comes the chance node which represents the uncertain solution. The last part of the Decision Tree is the leaf node which indicates the final solution to our problem.
-<img src="https://www.researchgate.net/figure/a-describes-the-components-of-a-decision-tree-the-Nodes-represent-the-possible_fig2_303773171" alt="tree_diagram">
+<img src="Github images/pic1.jpg">
