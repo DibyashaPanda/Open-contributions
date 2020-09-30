@@ -64,7 +64,7 @@ The next thing that comes to mind is how to choose the best attribute.
 <br>3)It is unstable, meaning that a small change in the data can lead to a large change in the structure of the optimal decision tree.
 <br>4)Decision trees are biased with imbalance dataset, so it is recommended that balance out the dataset before creating the decision tree.
 
-For coding part Dibyasha_DesicionTree.ipnyb
+For coding part refer Dibyasha_DesicionTree.ipnyb
 
 Thanks for reading :heart:
 <br> Contributed by **Dibyasha Panda**
