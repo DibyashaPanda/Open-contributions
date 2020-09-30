@@ -11,7 +11,19 @@ The basic idea that goes with is that there is a teacher or supervisor who guide
 Here, we do not train the machine rather we leave the machine to study on its own and discover the hidden patterns in the data. Unsupervised Learning deals with unlabeled data. 
 
 <br>As mentioned above machine apply some algorithms to study the data, these two types of learning have some algorithms. So, we are here today to learn about **Decision Tree Algorithm** which is a supervised learning.
-
+## Decision Tree Algorithm 
 <br>The **Decision Tree Algorithm** is similar to the if-else statements in looping. Decision Tree is the graphical representation of answers to our own problems which we come across daily in our life based upon some conditions.
-<br> Its uses tree like structure where our problem is the parent node or root node. The parentnode is the point where branches orginiates which means the possible outcomes or solutions. Next comes the chance node which represents the uncertain solution. The last part of the Decision Tree is the leaf node which indicates the final solution to our problem.
+<br> Its uses tree like structure where our problem is the parent node or root node. The parentnode is the point where branches orginiates which means the possible outcomes or solutions. Next comes the chance nodes or internal nodes which represents the uncertain solution. The last part of the Decision Tree is the leaf node which indicates the final solution to our problem.
 <img src="Github images/pic1.png">
+
+## Example of Decision Tree:
+<img src="Github images/pic2.png">
+
+In this example, we want to predict whether a person is fit or unfit with the information provided about their age, eating habits, physical activity, etc. The parent node is the question about his age 'Age < 30?'.The internal nodes are the questions like ‘Does he exercise?’, ‘Does he eat a lot of pizzas’? And the leaves represent outcomes like either ‘fit’, or ‘unfit’.
+## Types of Decision Trees:
+**1)Classification Trees**:
+<br>The above example is an example of Classification Tree. The outcome variables 'fit' or 'unfit'are the Categorical Variables.
+The tree is built through a process called binary recursive partitioning which is an iterative process of splitting the data into partitions, and then splitting it up further on each of the branches.
+
+<img src="Github images/pic3.png">
+**2)Regression Trees**:
